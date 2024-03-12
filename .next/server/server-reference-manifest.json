@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "9a86eed5d1db9306339e73f1fbd07f9f9359f603": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ffinlaas%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "rVlbpSK0v9n4tc4Mgr+mLC/oMqsebZuNEfOUJp7SQV0="
+  "encryptionKey": "Pnm2GbG81vx4yLp//Sw06pKPH3rHTfPSNm8J/bUjtYc="
 }
